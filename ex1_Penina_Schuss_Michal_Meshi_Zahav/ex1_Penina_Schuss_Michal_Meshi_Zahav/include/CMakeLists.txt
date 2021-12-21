@@ -1,0 +1,1 @@
+﻿target_include_directories (ex1_Penina_Schuss_Michal_Meshi_Zahav PRIVATE ${CMAKE_CURRENT_LIST_DIR})
